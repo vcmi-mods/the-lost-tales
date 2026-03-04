@@ -26,10 +26,7 @@
 		"hota.gamebalance.heroes"
 	],
 	"creatures" : [
-		"config/town-screen/conflux/creatures.json",
 		"config/hotaNeutralCreatures/steelGolem",
-		"config/hota/cove/creatures/seaWitch.json",
-		"config/hota/cove/creatures/sorceress.json",
 		"config/hota/factory/creatures/halfling.json"
 	],
 	"heroes" : [
@@ -102,11 +99,7 @@
 		"config/hotaGameBalance/tower/josephine.json",
 		"config/hotaGameBalance/tower/piquedram.json",
 		"config/hotaGameBalance/tower/thane.json",
-		"config/hotaGameBalance/tower/theodorus.json",
-
-		"config/hota/bulwark/heroes/spadum.json",
-		"config/hota/bulwark/heroes/kynr.json",
-		"config/hota/bulwark/heroes/vehr.json"
+		"config/hotaGameBalance/tower/theodorus.json"
 	],
 	"factions" : [
 		"config/town-screen/conflux/confluxUpgrades"

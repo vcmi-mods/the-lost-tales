@@ -25,6 +25,7 @@
 		"tears-of-ashan"
 	],
 	"softDepends" : [
+		"vcmi-extras.bonusicons.bonus icons",
 		"hota.heroes3DataPatch",
 		"hota.newGraphics",
 		"hota.gameBalance"

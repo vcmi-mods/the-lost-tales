@@ -1,70 +1,6 @@
 {
 	"core:conflux" : {
 		"town" : {
-			"structures" : {
-				"dwellingUpLvl2" : {
-					"animation" : "TBELUP_1.def",
-					"x" : 630,
-					"y" : 50,
-					"z" : 0,
-					"campaignBonus" : "BoEup_1.pcx",
-					"border" : "TOELUP_1.bmp",
-					"area" : "TZELUP_1.bmp"
-				},
-				"dwellingUpLvl3" : {
-					"animation" : "TBELUP_2.def",
-					"x" : 709,
-					"y" : 210,
-					"z" : 5,
-					"campaignBonus" : "BoEup_2.pcx",
-					"border" : "TOELUP_2.bmp",
-					"area" : "TZELUP_2.bmp"
-				},
-				"dwellingUpLvl4" : {
-					"animation" : "TBELUP_3.def",
-					"x" : 108,
-					"y" : 131,
-					"z" : 1,
-					"campaignBonus" : "BoEup_3.pcx",
-					"border" : "TOELUP_3.bmp",
-					"area" : "TZELUP_3.bmp"
-				},
-				"dwellingUpLvl5" : {
-					"animation" : "TBELUP_4.def",
-					"x" : 264,
-					"y" : 168,
-					"z" : 0,
-					"campaignBonus" : "BoEup_4.pcx",
-					"border" : "TOELUP_4.bmp",
-					"area" : "TZELUP_4.bmp"
-				},
-				"dwellingUpLvl6" : {
-					"animation" : "TBELUP_5.def",
-					"x" : 394,
-					"y" : 283,
-					"z" : 9,
-					"campaignBonus" : "BoEup_5.pcx",
-					"border" : "TOELUP_5.bmp",
-					"area" : "TZELUP_5.bmp"
-				},
-				"hordePhoenix" : {
-					"animation" : "hota/TBELHrd3.def",
-					"border" : "hota/phoenixHordeBorder.png",
-					"area" : "hota/phoenixHordeArea.png",
-					"x" : 685,
-					"y" : 105,
-					"z" : 1
-				},
-				"hordePhoenixUpgr" : {
-					"animation" : "hota/TBELHrd4",
-					"border" : "hota/phoenixHordeUpgradedBorder.png",
-					"area" : "hota/phoenixHordeUpgradedArea.png",
-					"x" : 685,
-					"y" : 105,
-					"z" : 1
-				}
-			},
-			"hallBackground" : "TPTHBKTW",
 			"buildingsIcons" : "town-screen/conflux/AltHallElem.DEF",
 
 			"hallSlots" : [
@@ -157,58 +93,8 @@
 					]
 				]
 			],
-			"creatures" : [
-				[
-					"pixie",
-					"sprite"
-				],
-				[
-					"airElemental",
-					"stormElemental",
-					"greatAirElemental"
-				],
-				[
-					"waterElemental",
-					"iceElemental",
-					"greatWaterElemental"
-				],
-				[
-					"fireElemental",
-					"energyElemental",
-					"greatFireElemental"
-				],
-				[
-					"earthElemental",
-					"magmaElemental",
-					"greatEarthElemental"
-				],
-				[
-					"psychicElemental",
-					"magicElemental",
-					"greatPsychicElemental"
-				],
-				[
-					"firebird",
-					"phoenix"
-				]
-			],
 
 			"buildings" : {
-				"dwellingUpLvl2" : {
-					"description" : "The Altar of Air allows you to recruit Storm Elementals or Great Air Elementals."
-				},
-				"dwellingUpLvl3" : {
-					"description" : "The Altar of Water allows you to recruit Ice Elementals or Great Water Elementals."
-				},
-				"dwellingUpLvl4" : {
-					"description" : "The Altar of Fire allows you to recruit Energy Elementals or Great Fire Elementals."
-				},
-				"dwellingUpLvl5" : {
-					"description" : "The Altar of Earth allows you to recruit Magma Elementals or Great Earth Elementals."
-				},
-				"dwellingUpLvl6" : {
-					"description" : "The Altar of Thought allows you to recruit Magic Elementals or Great Psychic Elementals."
-				},
 				"dwellingUpLvl2alt" : {
 					"description" : "The Altar of Air allows you to recruit Storm Elementals or Great Air Elementals.",
 					"name" : "Upg. Altar of Air",
@@ -263,34 +149,6 @@
 					"upgrades" : "dwellingUpLvl6",
 					"mode" : "auto",
 					"id" : 49
-				},
-				"hordePhoenix" : {
-					"description" : "The Vault of Ashes increases Firebirds production by 1 per week.",
-					"name" : "Vault of Ashes",
-
-					"cost" : {
-						"mercury" : 5,
-						"gold" : 5000
-					},
-					"requires" : [
-						"dwellingLvl7"
-					],
-					"id" : 24
-				},
-				"hordePhoenixUpgr" : {
-					"description" : "The Vault of Ashes increases Phoenixes production by 1 per week.",
-					"name" : "Vault of Ashes",
-
-					"cost" : {
-						"mercury" : 5,
-						"gold" : 5000
-					},
-					"upgrades" : "hordePhoenix",
-					"requires" : [
-						"dwellingUpLvl7"
-					],
-					"mode" : "auto",
-					"id" : 25
 				}
 			}
 		}
