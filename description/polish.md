@@ -12,43 +12,45 @@ z rozgrywki). Jednostki z TOW zostały odpowiednio zbalansowane, aby zwiększyć
 ich przydatność. Mod wprowadza również nowe jednostki neutralne, nowych
 bohaterów oraz alternatywne i drugie ulepszenia dla wszystkich frakcji.
 
-CASTLE Halberdier <> Veteran Pikemen (LvL1) Marksman <> Bowman (LvL2) Royal
-Griffin <> Assault Griffin (LvL3) Crusader <> Vindicator (LvL4) Zealot <> War
-Priest (LvL5)
+ZAMEK Halabardnik <> Weteran (Poz. 1) Kusznik <> Łucznik wyborowy (Poz. 2) Gryf
+królewski <> Gryf szturmowy (Poz. 3) Krzyżowiec <> Mściciel (Poz. 4) Kapłan <>
+Kapelan (Poz. 5)
 
-RAMPART Centaur Captain <> Centaur Archer (LvL1) Battle Dwarf<>Dwarf Enforcer
-(LvL2) Grand Elf <> Elf Hunter (LvL3) War Unicorn <> Sun Unicorn (LvL6) Gold
-Dragon <> Silver Dragon(LvL7)
+BASTION Centaur bojowy <> Centaurzy strzelec (Poz. 1) Krasnoludzki
+wojownik<>Krasnoludzki egzekutor (Poz. 2) Wysoki elf <> Łowczy elf (Poz. 3)
+Jednorożec bitewny <> Jednorożec solarny (Poz. 6) Złoty smok <> Srebrny smok
+(Poz. 7)
 
-TOWER Master Gremlin <> Assistant Gremlin (LvL1) Obsidian Gargoyle <> Marble
-Gargoyle (LvL2) Arch Magi <> Master Magi (LvL4) Naga Queen <> Naga Guardian
-(LvL6)
+FORTECA Większy gremlin <> Gremlin służebny (Poz. 1) Obsydianowy gargulec <>
+Marmurowy gargulec (Poz. 2) Arcymag <> Wyższy mag (Poz. 4) Królewska naga <>
+Strażniczka wężowych (Poz. 6)
 
-INFERNO Magog > Winged Magog (LvL2) Cerberus <> Fire Hound (LvL3) Arch Devil <>
-Reaper Devil (LvL7).
+INFERNO Magog > Skrzydlaty magog (Poz. 2) Cerber <> Płomienny ogar (Poz. 3)
+Arcydiabeł <> Diabelski kosiarz (Poz. 7).
 
-NECROPOLIS Skeleton Warrior <> Skeleton Archer (LvL1) Wraith <> Specter (LvL3)
-Vampire Lord <> Vampire Knight (LvL4) Power Lich <> Arch LIch (LvL5) Dread
-Knight <> Grim Knight (LvL6) Ghost Dragon <> Dragon Lich (LvL7).
+NEKROPOLIA Kościej <> Kościany czatownik (Poz. 1) Upiór <> Echo dusz (Poz. 3)
+Wampirzy lord <> Vampire Knight (Poz. 4) Power Lich <> Arch Lich (Poz. 5)
+Upiorny rycerz <> Mroczny rycerz (Poz. 6) Upiorny smok <> Liszy smok (Poz. 7).
 
-DUNGEON Infernal Troglodyte <> Toxic Troglodyte (LvL1). Evil Eye <> Cursed Eye
-(LvL3)
+LOCHY Piekielny traglodyta <> Toksyczny troglodyta (Poz. 1). Złe oko <>
+Przeklęte oko (Poz. 3)
 
-STRONGHOLD Wolf Raider <> Boar Rider (LvL2) Orc Leader <> Orc Warrior (LvL3)
-Cyclop King > Cyclop Lord (LvL6).
+TWIERDZA Wilczy jeździec <> Knurzy jeździec (Poz. 2) Wódz orków <> Watażka (Poz.
+3) Cyklop królewski > Cyklopski lord (Poz. 6).
 
-FORTRESS Gnoll Marauder > Gnoll Hunter (LvL1). Lizardman Warrior <> Lizardman
-Soldier (LvL2) Dragon Fly > Queen Dragon Fly (LvL3) Mighty Gorgon <> Black
-Gorgon (LvL5) Chaos Hydra <> Flying Hydra (LvL7).
+CYTADELA Gnoll maruder > Gnoll tropiciel (Poz. 1). Jaszczurzy wojownik <>
+Strażnik moczarów (Poz. 2) Smocza ważka > Rodowa ważka (Poz. 3) Wielka gorgona
+<> Czarna gorgona (Poz. 5) Hydra chaosu<> Skrzydlata hydra (Poz. 7).
 
-CONFLUX Storm Elemental <> Great Air Elemental (LvL2) Ice Elemental <> Great
-Water Elemental (LvL3) Energy Elemental <> Great Fire Elemental (LvL4) Magma
-Elemental <> Great Earth Elemental (LvL5) Magic Elemental <> Great Psychic
-Elemental (LvL6).
+WROTA ŻYWIOŁÓW Żywiołak burzy <> Arcyżywiołak powietrza (Poz. 2) Żywiołak lodu
+<> Arcyżywiołak wody (Poz. 3) Żywiołak energii <> Arcyżywiołak ognia (Poz. 4)
+Żywiołak magmy <> Arcyżywiołak ziemi (Poz. 5) Żywiołak magii <> Arcyżywiołak
+umysłu (Poz. 6).
 
-Neutral Mummy : neutral > necropolis and new dwelling. Troll : neutral >
-Fortress Gold Golem : neutral > Tower Diamond Golem : Recolored model by Toriko.
-neutral > Tower Great Enchanter Nightmare Karkadann Blood Dragon Dwarf Guard
+Jednostki neutralne Mumia : neutralna > Nekropolia i nowe siedlisko. Troll :
+neutralny > Cytadela Złoty Golem : neutralny > Forteca Diamentowy Golem :
+Przekolorowany model przez Toriko. neutralny > Forteca Mistrz zaklęć Koszmar
+Karkadann Smoczy krwiopijca Krasnoludzki gwardzista
 
 Kompatybilność z ToW : automatycznie zostaje włączona gdy gramy z dodatkiem ToW.
 
@@ -56,13 +58,14 @@ Modyfikacje dla TOW
 
 Zmiany w stworzeniach w dodatku ToW:
 
-Drake and Dragon Golem : have magic damage diminution instead of magic
-resistance. Werewolf and Dire Werewolf : have 30 % and 40 instead of 20% of
-reduced damage. 20% reduce defence ennemy. Alhoon : can teleport. Couatl and
-Quetzalcouatl : are renamed into "Feathered Serpent", "Kukulkan" because Hota
-have other version of couatl. Troll Hag and troll witches : have higher attack,
-defence and recuperation hp.(Based on core:Troll) Troll can pe upgraded into a
-Troll Hag. Ghost : new dwelling
+Smoczy golem i smoczy konstrukt : zamiast odporności na magię mają zmniejszone
+obrażenia magiczne. Wilkołak i okrutny wilkołak : otrzymują odpowiednio 30% i
+40% redukcji obrażeń zamiast 20%. Zmniejszają obronę przeciwnika o 20%. Stary
+łupieżca : może się teleportować. Łuskonośny kwezali i pierzasty wąż : nazwy
+zmienione na "Kecalkoatl", "Kukulkan" ponieważ w HotA są inne wersje koatli.
+Trollowa wiedźma i trollowa czarownica : mają wyższy atak, obronę i tempo
+regeneracji PŻ (na podstawie podstawowej wersji trolla). Troll może zostać
+ulepszony do Trollowej Wiedźmy. Duch : nowe siedlisko
 
 Kompatybilność z HotA: automatycznie zostaje włączona gdy gramy z dodatkiem
 HotA.
@@ -71,33 +74,34 @@ Modyfikacje dla Hota
 
 FABRYKA
 
-Crimson Couatl <> Quetzalcouatl Juggernaut <> Onslaught Steel Golem : neutral >
-tower new map def for sea witch, sorceress, Yetirunemaster new small portrait
-for cove faction new hero for bulwark, cove , facrory NEW HEROES
+Karmazynowe koatl <> Kecalkoatl Moloch <> Nawałnik Stalowy golem : neutralny >
+forteca nowe grafiki na mapie dla for zaklinaczki, czarodziejki, yeti,
+runowładnego nowe małe portrety dla bohaterów przystani nowi bohaterowie
+warowni, przystani, fabryki NOWI BOHATEROWIE
 
-Castle Slash (Crag Hack campaign) Adrann (heroes 4) Nicolaj Laine (heroes 4)
-marcius (heroes 4) nanette (heroes 4) SirKentaine (heroes 4)
+Zamek Slash (z kampanii Craga Hacka) Adrann (z heroes 4) Nicolaj Laine (z heroes
+4) marcius (z heroes 4) nanette (z heroes 4) SirKentaine (z heroes 4)
 
-Rampart Balfor Silf Tharj (H4) Vatawna
+Bastion Balfor Silf Tharj (z H4) Vatawna
 
-Tower Sarakin (H2) Sharah (H4) Jubal (H4) marlous
+Forteca Sarakin (z H2) Sharah (z H4) Jubal (z H4) marlous
 
 Inferno Brulh Gelila
 
-Necropolis Wyrm (H2) Maroth Balder
+Nekropolia Wyrm (z H2) Maroth Balder
 
-Dungeon Melina Gundross (H4)
+Lochy Melina Gundross (z H4)
 
-Stronghold Tyro (H2) Jojosh (H2) Bofmog Dogwoggle (H4)
+Twierdza Tyro (z H2) Jojosh (z H2) Bofmog Dogwoggle (z H4)
 
-Fortress Ha'Ora (hota campaign) Yrami Nacron
+Cytadela Ha'Ora (z kampanii hota) Yrami Nacron
 
-Conflux Falagar (H2) Falavion (H4) Bizz Lazar
+Wrota żywiołów Falagar (z H2) Falavion (z H4) Bizz Lazar
 
-NEW CREATURE MODEL Pikeman, Haleberdier, Silver Pegasus, Dendroid soldier,
-Zombie, Orc, Orc Leader, Cyclop , Cyclop King, Fire Elemental, Halfling.
+NOWE MODELE STWORZEŃ Pikinier, Halabardnik, Srebrny pegaz, Ent, Zombie, Ork,
+Uruk, Cyklop , Cyklop królewski, Żywiołak ognia, Niziołek.
 
-NEW CREATURE PORTRAIT HD by Suft and Modified by Toriko.
+NOWE PORTRETY STWORZEŃ HD stworzone przez Sufta i zmodyfikowane przez Toriko.
 
-NEW SECONDARY SKILL Nobility : increase Growth's creature of visited town.\
-Defending : increase defence when choosing to defend in battle.
+NOWE ZDOLNOŚCI Szlachetność : zwiększa przyrost stworzeń w odwiedzonym mieście.\
+Obrona : zwiększa obronę podczas wyboru obrony w walce.
