@@ -42,13 +42,13 @@
 			},
 			"bonuses" : {
 				"dwarf2dwarfGuard" : {
-					"subtype" : "dwarf"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "dwarf" } ]
 				},
 				"battleDwarf2dwarfGuard" : {
-					"subtype" : "battleDwarf"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "battleDwarf" } ]
 				},
 				"dwarfEnforcer2dwarfGuard" : {
-					"subtype" : "dwarfEnforcer"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "dwarfEnforcer" } ]
 				}
 			}
 		},

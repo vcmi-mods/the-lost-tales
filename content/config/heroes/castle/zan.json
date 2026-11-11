@@ -42,15 +42,15 @@
 			},
 			"bonuses" : {
 				"swordsman2dragonHunter" : {
-					"subtype" : "swordsman"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "swordsman" } ]
 				},
 				"crusader2dragonSlayer" : {
 					"addInfo" : "dragonSlayer",
-					"subtype" : "crusader"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "crusader" } ]
 				},
 				"vindicator2dragonSlayer" : {
 					"addInfo" : "dragonSlayer",
-					"subtype" : "vindicator"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "vindicator" } ]
 				}
 			}
 		},
