@@ -73,7 +73,8 @@
 				"icon" : "zvs/Lib1.res/e_fly3"
 			},
 			"fireShield" : {
-				"type" : "FIRE_SHIELD",
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "fireShield",
 				"val" : 20,
 				"icon" : "zvs/Lib1.res/TltSpellFireshield"
 			}

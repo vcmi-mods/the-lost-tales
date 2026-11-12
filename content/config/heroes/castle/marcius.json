@@ -42,7 +42,7 @@
 			},
 			"bonuses" : {
 				"peasant2pikeman" : {
-					"subtype" : "peasant"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "peasant" } ]
 				}
 			}
 		},

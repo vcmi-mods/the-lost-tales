@@ -18,18 +18,23 @@
 		},
 		"levels" : {
 			"base" : {
-				"effects" : {
-					"poison" : {
-						"type" : "POISON",
-						"val" : 80,
-						"valueType" : "INDEPENDENT_MAX",
-						"duration" : "N_TURNS"
-					},
-					"stackHealth" : {
-						"type" : "STACK_HEALTH",
-						"val" : -10,
-						"valueType" : "PERCENT_TO_ALL",
-						"duration" : "N_TURNS"
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"poison" : {
+								"type" : "POISON",
+								"val" : 80,
+								"valueType" : "INDEPENDENT_MAX",
+								"duration" : "N_TURNS"
+							},
+							"stackHealth" : {
+								"type" : "STACK_HEALTH",
+								"val" : -10,
+								"valueType" : "PERCENT_TO_ALL",
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				},
 				"range" : "0",
@@ -50,18 +55,23 @@
 			"advanced" : {
 				"cost" : 14,
 				"power" : 10,
-				"effects" : {
-					"poison" : {
-						"type" : "POISON",
-						"val" : 80,
-						"valueType" : "INDEPENDENT_MAX",
-						"duration" : "N_TURNS"
-					},
-					"stackHealth" : {
-						"type" : "STACK_HEALTH",
-						"val" : -20,
-						"valueType" : "PERCENT_TO_ALL",
-						"duration" : "N_TURNS"
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"poison" : {
+								"type" : "POISON",
+								"val" : 80,
+								"valueType" : "INDEPENDENT_MAX",
+								"duration" : "N_TURNS"
+							},
+							"stackHealth" : {
+								"type" : "STACK_HEALTH",
+								"val" : -20,
+								"valueType" : "PERCENT_TO_ALL",
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				},
 				"description" : "{Advanced Poison}\n\nPoisons an enemy unit, reducing its health at once and then at the beginning of the next two rounds.\n\nEffect is greater than that of Basic Poison.\n"
@@ -69,18 +79,23 @@
 			"expert" : {
 				"cost" : 14,
 				"power" : 10,
-				"effects" : {
-					"poison" : {
-						"type" : "POISON",
-						"val" : 80,
-						"valueType" : "INDEPENDENT_MAX",
-						"duration" : "N_TURNS"
-					},
-					"stackHealth" : {
-						"type" : "STACK_HEALTH",
-						"val" : -30,
-						"valueType" : "PERCENT_TO_ALL",
-						"duration" : "N_TURNS"
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"poison" : {
+								"type" : "POISON",
+								"val" : 80,
+								"valueType" : "INDEPENDENT_MAX",
+								"duration" : "N_TURNS"
+							},
+							"stackHealth" : {
+								"type" : "STACK_HEALTH",
+								"val" : -30,
+								"valueType" : "PERCENT_TO_ALL",
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				},
 				"description" : "{Expert Poison}\n\nPoisons an enemy unit, reducing its health at once and then at the beginning of the next two rounds.\n\nEffect is greater than that of Advanced Poison.\n"

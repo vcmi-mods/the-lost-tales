@@ -42,19 +42,19 @@
 			},
 			"bonuses" : {
 				"pikeman2squire" : {
-					"subtype" : "pikeman"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "pikeman" } ]
 				},
 				"squire2ManAtArms" : {
 					"addInfo" : "manAtArms",
-					"subtype" : "squire"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "squire" } ]
 				},
 				"halberdier2ManAtArms" : {
 					"addInfo" : "manAtArms",
-					"subtype" : "halberdier"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "halberdier" } ]
 				},
 				"veteranPikeman2ManAtArms" : {
 					"addInfo" : "manAtArms",
-					"subtype" : "veteranPikeman"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "veteranPikeman" } ]
 				}
 			}
 		},

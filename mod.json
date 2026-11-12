@@ -3,12 +3,15 @@
 	"author" : "Toriko, Yogdush, Misiokles",
 	"contact" : "https://discord.gg/zkP9CtXk7",
 	"description" : "This mod add the possibility of changing your upgrade into a new one when you want for free in the appropriate town faction or Hill Fort. Inferno, Stronghold and Fortress are the only factions with second upgrade possible for some specific creatures( not everyone). It was for making these Faction a little more competitive. Its not an obligation , just an option ... I dont change any stats of the Base game for keeping a maximum the same feeling as the original experience but with add on. the only exceptions are for the some neutrals who are affiled as some factions . Example : boar is Stronghold and have the same price as Wolf Raider for making the alternative completely free. The mod is completely compatible with TOW and HOTA ( mostly recomanded for having the better experience). TOW creatures were balanced for making them a little more competitive. There are new neutrals, new Heroes, new models for some creature, new portrait HD and some new ones created for the mod HOTA and TOW. Link to discord. https://discord.gg/zkP9CtXk7",
-	"version" : "1.0.4",
+	"version" : "1.0.7",
 	"modType" : "Expansion",
 	"compatibility" : {
 		"min" : "1.7.0"
 	},
 	"changelog" : {
+		"1.0.7" : [
+			"Updated to VCMI 1.8 format"
+		],
 		"1.0.6" : [
 			"Various fix for stats bugs etc , new def for War Priest and Toxic Trogldyte. New hero for Tower. New alternative for Conflux's Phoenix. New Hero's skill : Markup, Robustness, Velocity. New alternative for Conflux's Phoenix : Suzaku, New alternative for Bulwark's Argali: Snow Ram.  All new Creature Ability Icon. "
 		],

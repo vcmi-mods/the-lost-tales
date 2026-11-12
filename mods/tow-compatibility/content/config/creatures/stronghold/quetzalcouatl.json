@@ -28,7 +28,7 @@
 				"subtype" : "stoneGaze",
 				"addInfo" : 0,
 				"description" : "{Unbounded}\nImmunity for all creature spell-like abilities like Bind, Age, Poison or Death Stare",
-				"icon" : "zvs/Lib1.res/TltImmunityQuetzalcouatl"
+				"icon" : "zvs/Lib1.res/TltImmunityCouatl"
 			},
 			"poisonImm" : {
 				"type" : "SPELL_IMMUNITY",

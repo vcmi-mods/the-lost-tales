@@ -56,10 +56,10 @@
 			},
 			"bonuses" : {
 				"walkingDead2mummy" : {
-					"subtype" : "walkingDead"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "walkingDead" } ]
 				},
 				"zombie2mummy" : {
-					"subtype" : "zombie"
+					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "zombie" } ]
 				}
 			}
 		}
