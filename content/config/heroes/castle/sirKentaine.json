@@ -42,19 +42,39 @@
 			},
 			"bonuses" : {
 				"pikeman2squire" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "pikeman" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "pikeman"
+						}
+					]
 				},
 				"squire2ManAtArms" : {
 					"addInfo" : "manAtArms",
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "squire" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "squire"
+						}
+					]
 				},
 				"halberdier2ManAtArms" : {
 					"addInfo" : "manAtArms",
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "halberdier" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "halberdier"
+						}
+					]
 				},
 				"veteranPikeman2ManAtArms" : {
 					"addInfo" : "manAtArms",
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "veteranPikeman" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "veteranPikeman"
+						}
+					]
 				}
 			}
 		},

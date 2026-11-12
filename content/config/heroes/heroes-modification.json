@@ -73,22 +73,52 @@
 			},
 			"bonuses" : {
 				"archer2sharpshooter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.archer" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.archer"
+						}
+					]
 				},
 				"grandElf2sharpshooter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.grandElf" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.grandElf"
+						}
+					]
 				},
 				"marksman2sharpshooter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.marksman" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.marksman"
+						}
+					]
 				},
 				"woodElf2sharpshooter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.woodElf" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.woodElf"
+						}
+					]
 				},
 				"bowman2sharpshooter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.bowman" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.bowman"
+						}
+					]
 				},
 				"elfHunter2sharpshooter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.elfHunter" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.elfHunter"
+						}
+					]
 				}
 			}
 		},
@@ -160,22 +190,52 @@
 			},
 			"bonuses" : {
 				"archMage2enchanter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.archMage" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.archMage"
+						}
+					]
 				},
 				"mage2enchanter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.mage" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.mage"
+						}
+					]
 				},
 				"masterMage2enchanter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.masterMage" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.masterMage"
+						}
+					]
 				},
 				"monk2enchanter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.monk" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.monk"
+						}
+					]
 				},
 				"zealot2enchanter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.zealot" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.zealot"
+						}
+					]
 				},
 				"warPriest2enchanter" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "creature.warpriest" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "creature.warpriest"
+						}
+					]
 				}
 			}
 		},

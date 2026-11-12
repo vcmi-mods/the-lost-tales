@@ -42,13 +42,28 @@
 			},
 			"bonuses" : {
 				"dwarf2dwarfGuard" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "dwarf" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "dwarf"
+						}
+					]
 				},
 				"battleDwarf2dwarfGuard" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "battleDwarf" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "battleDwarf"
+						}
+					]
 				},
 				"dwarfEnforcer2dwarfGuard" : {
-					"limiters" : [ { "type" : "CREATURE_TYPE_LIMITER", "creature" : "dwarfEnforcer" } ]
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "dwarfEnforcer"
+						}
+					]
 				}
 			}
 		},
